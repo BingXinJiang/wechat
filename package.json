@@ -1,0 +1,15 @@
+{
+  "name": "jswechat",
+  "version": "1.0.0",
+  "description": "微信公众号快捷开发框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "微信",
+    "公众号"
+  ],
+  "author": "jiangsong",
+  "license": "ISC"
+}
