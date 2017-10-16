@@ -11,5 +11,8 @@
     "公众号"
   ],
   "author": "jiangsong",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
 }

@@ -2,7 +2,7 @@
  * Created by jiangsong on 2017/10/13.
  */
 
-var token = 'jjflkKkBVXcTS8SBKJw5JMzCvSYu-77wKrNIQ9JzzMBm91oxs4PVlMlaFtv7Z_wZBZeE6JpVkNsfRJCSw_wuskQnTFjrPRSs-JCDLLTDmsKXIgYtOiFNMl_KVwcL5jp4WNYhACAQHS'
+var token = 'P7gJ94BDLIq6bGpoFy2xSuAUVM5PVGQ25fVzw2ZIRH43AGkkoCAONEe_qzaonc4iYcG43ZszdIK4o9EN_4RMxU3wf3mbxVp1-9tSH0EoExUDHRdAAAVZJ'
 
 module.exports = {
 
